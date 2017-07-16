@@ -1,0 +1,12 @@
+Django>=1.8,<2.0
+psycopg2
+numpy
+python-dateutil
+pytz
+pandas
+ipython
+djangorestframework
+mongoengine
+pymongo>=2.7.1
+six>=1.10.0
+Pillow>=2.0.0
